@@ -1,0 +1,14 @@
+{
+  "monthly_charges_median": 70.525,
+  "weak_features_to_drop": [
+    "gender",
+    "MultipleLines"
+  ],
+  "engineered_features": [
+    "HighRisk_Score",
+    "NoSupport",
+    "Vulnerable",
+    "Tenure_Charge_Ratio",
+    "ShortTenure_HighCharge"
+  ]
+}
